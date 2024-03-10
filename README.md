@@ -1,5 +1,5 @@
 # Pharma-Cancer-Efficacy-Project
-![image](https://github.com/FrankDitz/Pharma-Cancer-Efficacy/assets/125056545/f0912e39-ea70-409d-8597-4f1e44fc63a8)
+![image](https://github.com/FrankDitz/Pharma-Cancer-Efficacy/assets/125056545/82f1b5c7-b722-43ee-ae30-a65a51d8853f)
 ## Overview
 A data analysis project on pharmacological research involving a new tumor reducing drug called Capomulin. The purpose is to see how effective the new drug is compared to other leading tumor fighting medications on the market.
 ## Methods
